@@ -18,9 +18,15 @@ This is the official implementation  of "DAU-Net: Dual Attention-aided U-Net for
 -Run the jupyter notebook to train the model and generate results. Make sure to change the paths according to your requirement.<br/>
 
 ## Results
-![heat](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/7ea420f6-77e2-4385-bc72-ae66659fd656)
-![output_heat](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/69ab2348-9cc2-4998-8f57-7095f856f13b)
+### Ablation
+![ablation2](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/5a6d27b6-b8a0-4e5d-a043-f958d9a32691)
+![ablation1](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/ce066aa1-5929-453b-93d5-66f22edcfb33)
 
+### UDIAT
+![udiat](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/7bb05f7d-d85d-4282-aa1c-75e2a27e6384)
+
+### BUSI
+![seg results](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/0dce5f3d-efa9-43e3-a670-ae6f76acc58b)
 
 ## Authors :nerd_face:*
 Ayush Roy<br/>
