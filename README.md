@@ -9,9 +9,6 @@ This is the official implementation  of "DAU-Net: Dual Attention-aided U-Net for
 ### PCBAM:
 ![pcbam](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/1089ce65-cd6e-49b9-8fb8-1d681ad3be5c)
 
-### Training and validation curves:
-
-
 ## How to use
 -Fork the repository.<br/>
 -Download the BUSI and UDIAT datasets.<br/>
