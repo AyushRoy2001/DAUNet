@@ -9,11 +9,6 @@ This is the official implementation  of "DAU-Net: Dual Attention-aided U-Net for
 ### PCBAM:
 ![pcbam](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/1089ce65-cd6e-49b9-8fb8-1d681ad3be5c)
 
-## How to use
--Fork the repository.<br/>
--Download the BUSI and UDIAT datasets.<br/>
--Run the jupyter notebook to train the model and generate results. Make sure to change the paths according to your requirement.<br/>
-
 ## Results
 ### Ablation
 ![ablation2](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/5a6d27b6-b8a0-4e5d-a043-f958d9a32691)
