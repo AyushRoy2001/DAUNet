@@ -29,7 +29,17 @@ Ram Sarkar<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
-Citation-<br/>
+Citation-
+@article{pramanik2024dau,
+  title={DAU-Net: Dual attention-aided U-Net for segmenting tumor in breast ultrasound images},
+  author={Pramanik, Payel and Roy, Ayush and Cuevas, Erik and Perez-Cisneros, Marco and Sarkar, Ram},
+  journal={Plos one},
+  volume={19},
+  number={5},
+  pages={e0303670},
+  year={2024},
+  publisher={Public Library of Science San Francisco, CA USA}
+}<br/>
 
 <br/>
--Link to our paper-<br/>
+-Link to our paper-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303670<br/>
