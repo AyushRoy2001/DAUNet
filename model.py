@@ -3,7 +3,7 @@ import tensorflow.keras as keras
 import keras.backend as K
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import *
-from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.optimizers import AdamW
 
 def channel_attention_module(x, ratio=8):
     batch, _, _, channel = x.shape
@@ -230,6 +230,6 @@ def build_res_unet(input_shape):
 
 
 model = build_res_unet(input_shape=(128, 128, 1))
-optimizer = Adam(lr=0.0001)
+optimizer = AdamW(lr=0.0001)
 model.compile(loss=combined_loss, metrics=["accuracy",dice_score,recall,precision,iou], optimizer = optimizer)
 model.summary()
