@@ -1,5 +1,5 @@
 # DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images
-This is the official implementation  of "DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor in Breast Ultrasound Images"
+This is the official implementation  of "DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor in Breast Ultrasound Images".<br/>
 ![sample](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/b362aa1d-998c-4df5-8beb-d905f4f7fc8e)
 
 
@@ -29,7 +29,7 @@ Ram Sarkar<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
-Citation-
+```
 @article{pramanik2024dau,
   title={DAU-Net: Dual attention-aided U-Net for segmenting tumor in breast ultrasound images},
   author={Pramanik, Payel and Roy, Ayush and Cuevas, Erik and Perez-Cisneros, Marco and Sarkar, Ram},
@@ -40,6 +40,4 @@ Citation-
   year={2024},
   publisher={Public Library of Science San Francisco, CA USA}
 }<br/>
-
-<br/>
--Link to our paper-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303670<br/>
+```
