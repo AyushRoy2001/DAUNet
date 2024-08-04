@@ -20,14 +20,14 @@ This is the official implementation  of "DAU-Net: Dual Attention-aided U-Net for
 ### BUSI
 ![seg results](https://github.com/AyushRoy2001/DAU-Net-Dual-Attention-aided-U-Net-for-Segmenting-Tumor-in-Breast-Ultrasound-Images/assets/94052139/0dce5f3d-efa9-43e3-a670-ae6f76acc58b)
 
-## Authors :nerd_face:*
+## Authors :nerd_face:
 Payel Pramanik<br/>
 Ayush Roy<br/>
 Erik Cuevas<br/> 
 Marco P ́erez-Cisneros<br/>
 Ram Sarkar<br/>
 
-## Citation :thinking:*
+## Citation :thinking:
 Please do cite our paper in case you find it useful for your research.<br/>
 ```
 @article{pramanik2024dau,
