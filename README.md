@@ -39,5 +39,5 @@ Please do cite our paper in case you find it useful for your research.<br/>
   pages={e0303670},
   year={2024},
   publisher={Public Library of Science San Francisco, CA USA}
-}<br/>
+}
 ```
